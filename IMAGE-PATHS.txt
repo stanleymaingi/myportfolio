@@ -1,0 +1,21 @@
+Homepage asset included in this archive:
+
+- assets/stanley-portrait-reference.jpg — Graduation portrait and school background used by the homepage hero.
+
+The original workspace references below were described by the starter project but were not present in the uploaded archive. Add the original files under these paths if you want their corresponding images to appear on the secondary pages and project galleries:
+
+- assets/mypassport.jpeg
+- assets/contact-illustration.jpg
+- assets/homepage1.jpg
+- assets/homepage2.png
+- assets/homepage3.jpg
+- assets/admindashboard1.png
+- assets/admindashboard2.png
+- assets/weather-preview.jpg
+- assets/weather-app-screenshot.png
+- assets/desk-banner.jpg
+- assets/nairobi-skyline.jpg
+- image1.jpg
+- image2.jpg
+
+The Download CV button expects `Stanley-Maingi-CV.pdf` in the project root. That CV file was not included in the uploaded archive.
